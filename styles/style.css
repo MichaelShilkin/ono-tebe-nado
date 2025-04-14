@@ -1,5 +1,4 @@
 /* место для вашего кода */
-<<<<<<< HEAD
 
 .header {
    width: 100%;
@@ -214,6 +213,7 @@
    z-index: 2;
    text-decoration: underline;
 }
+
 .card_text {
    font-size: 20px;
    font-weight: 400;
@@ -222,20 +222,20 @@
    z-index: 2;
    text-align: left;
    letter-spacing: 0.7px;
-
 }
 
 .lots__card-list-item {
    width: 100%;
    min-height: 596px;
-
 }
+
 .lots__card-list {
    display: flex;
    flex-direction: row;
    list-style: none;
    padding-left: 24px;
    padding-right: 24px;
+   gap: 25px;
 }
 .card-link {
    height: 100%;
@@ -352,5 +352,3 @@
     flex-direction: row;
     justify-content: space-between;
    }
-=======
->>>>>>> e964669902d84330a66656da3a93873387997381
