@@ -31,14 +31,11 @@
    text-decoration: none;
    text-underline-offset: 4.2px;
 }
-
-
 /* Логотип*/
 .header__logo {
    display: block;
    width: 148px;
    height: 105px;
-
 }
 .header__logo-image {
    object-fit: contain;
@@ -81,8 +78,7 @@
    background-position: center;
    padding: 165px 50px 50px 50px;
    z-index: 0;
-  
-}
+  }
 .overlay {
    position: absolute;
    width:100%;
@@ -118,8 +114,7 @@
   word-spacing: 18px;
   z-index: 1;
   position: relative;
-  
-}
+  }
 .cover__description-text {
    color: rgb(255, 255, 255);
    font-family: Raleway;
